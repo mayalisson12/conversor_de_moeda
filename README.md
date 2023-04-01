@@ -32,7 +32,8 @@ No geral, o projeto "Convert Money" é uma ferramenta útil para pessoas que pre
 
 Para utilizar o código, basta clonar ou fazer o download do repositório e abrir o arquivo index.html no seu navegador web.
 
-Ou clicar nesse link que já mostra o projeto rodando e hospedado:
+Ou clicar nesse link que já mostra o projeto rodando e hospedado (no celular também):
+https://mayalisson12.github.io/conversor_de_moeda/
 
 
 
