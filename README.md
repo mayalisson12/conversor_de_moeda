@@ -26,7 +26,7 @@ No geral, o projeto "Convert Money" é uma ferramenta útil para pessoas que pre
 - CSS
 - JavaScript
 
-## 📖 Como usar
+## 📖🚀 Como usar
 
 
 
@@ -39,11 +39,6 @@ Ou clicar nesse link que já mostra o projeto rodando e hospedado:
 Na página que será carregada, você verá três opções de conversão de moedas: Dólar americano, Euro e Bitcoin.
 
 Para converter um valor, basta digitar o valor em reais no campo "Valor" e selecionar a opção de conversão desejada. O resultado será exibido na seção abaixo, na moeda selecionada.
-
-##  Como funciona
-
-Ao acessar a página, preencha o nome e a senha da sua rede WiFi e clique no botão "Gerar QR Code". O servidor Flask irá processar os dados inseridos, gerar o código QR e exibir a imagem em sua página.
-
 
 
 
